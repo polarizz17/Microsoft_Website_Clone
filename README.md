@@ -20,3 +20,7 @@ JavaScript to make this web page. The web-page is interactive and Rsponsive.
 <p align="center">
     <img src="photos/ss2.jpeg">
 </p>
+
+## Deployment
+
+Visit https://microsoft-clone-polarizz17.netlify.app/ to see the deployed website.
