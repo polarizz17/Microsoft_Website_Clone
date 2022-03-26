@@ -5,11 +5,11 @@ JavaScript to make this web page. The web-page is interactive and Rsponsive.
 
 ## Technology
 
-<h3>HTML</h3>
+<h3>1.HTML</h3>
 
-<h3>Tailwind CSS</h3>
+<h3>2.Tailwind CSS</h3>
 
-<h3>JavaScript</h3>
+<h3>3.JavaScript</h3>
 
 ## Project Screen Shots
 
