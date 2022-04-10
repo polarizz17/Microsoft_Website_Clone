@@ -1,19 +1,39 @@
-## Microsoft_Website_Clone
+<h1 align = "center">Microsoft_Website_Clone</h1>
+<div align="center">
+    <img src="photos/ss1.png" alt="Frame" width="800" />
+</div>
+
+</div>
+<div align="center">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+    <img src="https://forthebadge.com/images/badges/uses-html.svg" />
+    <img src="https://forthebadge.com/images/badges/uses-css.svg" />
+    <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
+</div>
+
+## About The Project
 
 Microsoft_Website_Clone is a clone web-page of Microsofts's own website. I use HTML, Tailwind CSS and
 JavaScript to make this web page. The web-page is interactive and Rsponsive.
 
-## Technology
+## Built With
 
-<h3>1.HTML</h3>
+All Tech Stacks that are using in this project:
 
-<h3>2.Tailwind CSS</h3>
+-   HTML5
+-   CSS3 | Tailwind CSS
+-   Javascript 
+-   SVG
 
-<h3>3.JavaScript</h3>
+## Folder Structure
 
-## Project Screen Shots
-
-<img src="photos/ss1.png">
+```
+├── Microsoft_Clone
+    ├── assets/                  Contains CSS,Logos,Svgs and Importants images.
+    ├── js/                      Contains all JavaScript files.      
+    ├── photos/                  Contains some minor photos     
+    ├── index.html/                       
+```
 
 ## Responsiveness
 
